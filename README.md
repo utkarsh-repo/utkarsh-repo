@@ -56,6 +56,6 @@
 ### 🧑‍💻 Current Focus
 ```yaml
 - 🔭 Automating API & Recon Testing Workflows
-- 🧪 Building Red-Team Playbooks for Buopso
+- 🧪 Preparing for OSCP
 - 🧰 Integrating DevSecOps tools into CI/CD
 - 🧱 Hardening IAM, Vault, and AWS environments

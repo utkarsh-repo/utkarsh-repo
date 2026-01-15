@@ -15,7 +15,19 @@ I’m a **Cyber Security Engineer and Penetration Tester** focused on **manual W
 
 I currently work as a **solo security engineer** in a SaaS startup, handling end-to-end security responsibilities including VAPT, secure SDLC guidance, CI/CD security checks, and vulnerability remediation.
 
-My approach prioritizes understanding application logic, authentication flows, CI/CD pipelines, and real-world attack paths rather than relying only on automated scanners.
+I focus on understanding application logic, authentication flows, CI/CD pipelines, and real-world attack paths rather than relying only on automated scanners.
+
+---
+
+## 🧠 How I Approach Security Testing
+- Begin with understanding the application’s functionality, user roles, and business workflows
+- Identify trust boundaries across Web, API, Mobile, and CI/CD components
+- Map authentication, authorization, and session handling before active testing
+- Perform manual testing first to validate logic and access control issues
+- Use tools to support findings, not to replace analysis
+- Prioritize vulnerabilities based on real-world exploitability and impact
+- Reproduce issues reliably and provide clear proof of concept
+- Share actionable remediation guidance aligned with secure development practices
 
 ---
 
@@ -96,19 +108,6 @@ My approach prioritizes understanding application logic, authentication flows, C
 | **image-encryption-decryption** | Image encryption and decryption using cryptography | Python |
 
 🔗 View all repositories: https://github.com/utkarsh-repo?tab=repositories
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-repo&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-repo&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-repo&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
 
 ---
 

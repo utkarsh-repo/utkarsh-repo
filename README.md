@@ -39,6 +39,7 @@ I focus on understanding application logic, authentication flows, CI/CD pipeline
 - OWASP ZAP
 - SQLmap (assisted usage)
 - Nuclei (custom templates and workflows)
+- OSINT-Framework
 
 ### 🌐 Web & API Penetration Testing
 - HTTP / HTTPS protocol analysis
@@ -63,7 +64,7 @@ I focus on understanding application logic, authentication flows, CI/CD pipeline
 - JADX
 - MobSF
 - Frida
-- Burp Suite (mobile traffic interception)
+- Burp Suite
 
 ### ⚙️ Automation & Scripting
 - Bash (recon and scanning pipelines)
@@ -85,11 +86,14 @@ I focus on understanding application logic, authentication flows, CI/CD pipeline
 - Docker
 - GitHub Actions / GitLab CI
 - SonarQube
+- ScoutSuite
+- Prowler
+- Kube-Hunter
 - Trivy
 - Vault
 
 ### 📘 Frameworks & Knowledge
-- OWASP Top 10 (Web & API)
+- OWASP Top 10 (Web, API, Mobile, AI & CI/CD)
 - OWASP ASVS
 - OWASP MASVS
 - MITRE ATT&CK
